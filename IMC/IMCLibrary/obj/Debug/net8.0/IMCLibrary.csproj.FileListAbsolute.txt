@@ -1,0 +1,11 @@
+C:\Users\Lab15-PC01\IMC\IMCLibrary\obj\Debug\net8.0\IMCLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lab15-PC01\IMC\IMCLibrary\obj\Debug\net8.0\IMCLibrary.AssemblyInfoInputs.cache
+C:\Users\Lab15-PC01\IMC\IMCLibrary\obj\Debug\net8.0\IMCLibrary.AssemblyInfo.cs
+C:\Users\Lab15-PC01\IMC\IMCLibrary\obj\Debug\net8.0\IMCLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Lab15-PC01\IMC\IMCLibrary\bin\Debug\net8.0\IMCLibrary.deps.json
+C:\Users\Lab15-PC01\IMC\IMCLibrary\bin\Debug\net8.0\IMCLibrary.dll
+C:\Users\Lab15-PC01\IMC\IMCLibrary\bin\Debug\net8.0\IMCLibrary.pdb
+C:\Users\Lab15-PC01\IMC\IMCLibrary\obj\Debug\net8.0\IMCLibrary.dll
+C:\Users\Lab15-PC01\IMC\IMCLibrary\obj\Debug\net8.0\refint\IMCLibrary.dll
+C:\Users\Lab15-PC01\IMC\IMCLibrary\obj\Debug\net8.0\IMCLibrary.pdb
+C:\Users\Lab15-PC01\IMC\IMCLibrary\obj\Debug\net8.0\ref\IMCLibrary.dll
